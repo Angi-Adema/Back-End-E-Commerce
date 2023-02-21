@@ -33,5 +33,5 @@ MySQL / MySQL2
 ## Run Application
 
 1. npm i
-2. npm run seed
+2. mysql -uroot
 3. 
