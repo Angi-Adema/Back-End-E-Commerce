@@ -29,9 +29,14 @@ THEN I am able to successfully create, update, and delete data in my database
 Node.js / Express.js
 Sequelize
 MySQL / MySQL2
+Insomnia
 
 ## Run Application
 
 1. npm i
 2. mysql -uroot
-3. 
+3. source db/schema.sql;
+4. quit (to exit MySQL)
+5. npm run seed
+6. npm run start
+7. login to Insomnia in order to run functionality
